@@ -1,41 +1,15 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LenKTPelKiosLib.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   stdafx.cpp
   LenKTPelKiosLib.cpp
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(243): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(403): warning C4101: 'SerialBuffer': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(416): warning C4101: 'err': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(906): warning C4476: 'sprintf' : unknown type field character 'R' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(906): warning C4476: 'sprintf' : unknown type field character 'B' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(914): warning C4476: 'sprintf' : unknown type field character 'R' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(914): warning C4473: 'sprintf' : not enough arguments passed for format string
-  c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(914): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
-  c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(914): note: the missing variadic argument 1 is required by format string '%C'
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(921): warning C4476: 'sprintf' : unknown type field character 'R' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(921): warning C4476: 'sprintf' : unknown type field character 'O' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(937): warning C4476: 'sprintf' : unknown type field character 'R' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(937): warning C4476: 'sprintf' : unknown type field character 'O' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(944): warning C4476: 'sprintf' : unknown type field character 'R' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(944): warning C4476: 'sprintf' : unknown type field character 'O' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(944): warning C4474: 'sprintf' : too many arguments passed for format string
-  c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(944): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(948): warning C4476: 'sprintf' : unknown type field character 'R' in format specifier
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(948): warning C4473: 'sprintf' : not enough arguments passed for format string
-  c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(948): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
-  c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(948): note: the missing variadic argument 1 is required by format string '%E'
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(935): warning C4101: 'command': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1310): warning C4101: 'SerialBuffer': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1310): warning C4101: 'hasil3': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1307): warning C4101: 'dwEventMask': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1323): warning C4101: 'err': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1382): warning C4101: 'SerialBuffer': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1382): warning C4101: 'hasil3': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1379): warning C4101: 'dwEventMask': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(2675): warning C4018: '<': signed/unsigned mismatch
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(374): warning C4101: 'SerialBuffer': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(374): warning C4101: 'hasil3': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(371): warning C4101: 'dwEventMask': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(387): warning C4101: 'err': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(448): warning C4101: 'SerialBuffer': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(448): warning C4101: 'hasil3': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(445): warning C4101: 'dwEventMask': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1442): warning C4018: '<': signed/unsigned mismatch
   dllmain.cpp
   Generating Code...
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(448): warning C4715: 'sendCommandSR2': not all control paths return a value
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(312): warning C4172: returning address of local variable or temporary: hasil3
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(223): warning C4172: returning address of local variable or temporary: hasil3
-c:\users\azmifauzan\source\repos\lenktpelkioslib\lenktpelkioslib\lenktpelkioslib.cpp(1009): warning C4172: returning address of local variable or temporary: hasil3
      Creating library C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Debug\LenKTPelKiosLibUsb.lib and object C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Debug\LenKTPelKiosLibUsb.exp
   LenKTPelKiosLib.vcxproj -> C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Debug\LenKTPelKiosLibUsb.dll

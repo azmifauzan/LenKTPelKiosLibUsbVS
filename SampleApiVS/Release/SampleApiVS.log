@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  SampleApiVS.cpp
+SampleApiVS.cpp(25): warning C4101: 'version': unreferenced local variable
+SampleApiVS.cpp(44): warning C4101: 'version': unreferenced local variable
+SampleApiVS.cpp(233): warning C4101: 'dspMessage': unreferenced local variable
+  Generating code
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SampleApiVS.vcxproj -> C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Release\SampleApiVS.exe

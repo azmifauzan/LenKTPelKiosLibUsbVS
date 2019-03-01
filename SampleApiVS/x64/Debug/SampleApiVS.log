@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  SampleApiVS.cpp
+c:\users\azmifauzan\source\repos\lenktpelkioslib\sampleapivs\sampleapivs.cpp(22): warning C4101: 'version': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\sampleapivs\sampleapivs.cpp(41): warning C4101: 'version': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\sampleapivs\sampleapivs.cpp(148): error C2664: 'HMODULE LoadLibraryW(LPCWSTR)': cannot convert argument 1 from 'const char [23]' to 'LPCWSTR'
+  c:\users\azmifauzan\source\repos\lenktpelkioslib\sampleapivs\sampleapivs.cpp(148): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\azmifauzan\source\repos\lenktpelkioslib\sampleapivs\sampleapivs.cpp(180): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'

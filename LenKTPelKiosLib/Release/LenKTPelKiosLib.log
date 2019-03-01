@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  LenKTPelKiosLib.cpp
+LenKTPelKiosLib.cpp(374): warning C4101: 'SerialBuffer': unreferenced local variable
+LenKTPelKiosLib.cpp(374): warning C4101: 'hasil3': unreferenced local variable
+LenKTPelKiosLib.cpp(371): warning C4101: 'dwEventMask': unreferenced local variable
+LenKTPelKiosLib.cpp(387): warning C4101: 'err': unreferenced local variable
+LenKTPelKiosLib.cpp(448): warning C4101: 'SerialBuffer': unreferenced local variable
+LenKTPelKiosLib.cpp(448): warning C4101: 'hasil3': unreferenced local variable
+LenKTPelKiosLib.cpp(445): warning C4101: 'dwEventMask': unreferenced local variable
+LenKTPelKiosLib.cpp(1441): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Release\LenKTPelKiosLibUsb.lib and object C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Release\LenKTPelKiosLibUsb.exp
+  Generating code
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LenKTPelKiosLib.vcxproj -> C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Release\LenKTPelKiosLibUsb.dll
