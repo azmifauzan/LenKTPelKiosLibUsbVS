@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  CobaKirimSerial.cpp
-c:\users\azmifauzan\source\repos\lenktpelkioslib\cobakirimserial\cobakirimserial.cpp(98): warning C4101: 'SerialBuffer': unreferenced local variable
-c:\users\azmifauzan\source\repos\lenktpelkioslib\cobakirimserial\cobakirimserial.cpp(111): warning C4101: 'err': unreferenced local variable
-  CobaKirimSerial.vcxproj -> C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Debug\CobaKirimSerial.exe
