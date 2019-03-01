@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  SampleApiVS.cpp
+c:\users\azmifauzan\source\repos\lenktpelkioslib\sampleapivs\sampleapivs.cpp(21): warning C4101: 'version': unreferenced local variable
+c:\users\azmifauzan\source\repos\lenktpelkioslib\sampleapivs\sampleapivs.cpp(40): warning C4101: 'version': unreferenced local variable
+  SampleApiVS.vcxproj -> C:\Users\azmifauzan\source\repos\LenKTPelKiosLib\Debug\SampleApiVS.exe
